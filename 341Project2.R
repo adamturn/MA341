@@ -1,6 +1,6 @@
 # MA 341
 # Project 2
-#Author: Adam Turner
+# Author: Adam Turner
 
 ### Prompt 1
 #### Part A, Part B
