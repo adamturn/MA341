@@ -101,4 +101,4 @@ ggplot(beulerdata, aes(beulerdata$beulerx, beulerdata$beulery)) +
 #Crank-Nicolson Method
 ggplot(ceulerdata, aes(ceulerdata$ceulerx, ceulerdata$ceulery)) +
   geom_path(color="blue", size=3) +
-  labs(x= "t", y="x(t)", title="Backward Eulers Method")
+  labs(x= "t", y="x(t)", title="Crank-Nicolson Method")
